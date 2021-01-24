@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w21/jpa02-ohsnapitssunny
 
-On Heroku: https://jpa02-ohsnapitssunny.herokuapp.com/
+On Heroku: https://jpa02-sunnyhuang.herokuapp.com/
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa02-ohsnapitssunny
 
